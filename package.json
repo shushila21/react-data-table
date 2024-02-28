@@ -1,5 +1,5 @@
 {
-  "name": "react-data-table",
+  "name": "react-tanstack-data-table",
   "version": "1.0.0",
   "description": "React DataTable Libray",
   "main": "./dist/index.js",
